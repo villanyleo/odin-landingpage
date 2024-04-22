@@ -1,0 +1,1 @@
+Doggo image by <a href="https://pixabay.com/users/seaq68-4191072/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8269584">Sven Lachmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8269584">Pixabay</a>

@@ -1,0 +1,147 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 0px 300px;
+
+    ul {
+        display: flex;
+        list-style: none;
+    }
+
+    li {
+        padding: 5px;
+    }
+}
+
+#logo {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+
+
+.hero {
+    display: flex;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 50px 300px;
+    gap: 20px;
+
+    button {
+        background-color: #3882F6;
+        color: #f9faf8;
+        padding: 10px 30px;
+        border: none;
+        border-radius: 8px;
+    }
+
+    h1 {
+        font-size: 48px;
+        font-weight: 900;
+        color: #f9faf8;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    p {
+        padding: 0px;
+        margin: 10px 0px;
+    }
+}
+
+.cards-container {
+    text-align: center;
+    padding: 50px 300px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+.card-img {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quote-container {
+    background-color: #eee;
+    padding: 80px 300px;
+}
+
+.quote {
+    font-size: 2.5em;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 120%;
+}
+
+.from {
+    text-align: end;
+    font-size: 1.3em;
+    font-weight: 800;
+}
+
+.signup {
+    margin: 80px 300px;
+    background-color: #3882F6;
+    padding: 30px 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.signup-button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 30px 300px;
+}
